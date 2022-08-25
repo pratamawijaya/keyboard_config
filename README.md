@@ -4,4 +4,4 @@
 - arisu+
 - kbd67
 
-<img src="images/keymap_keyboard.png" width="400">
+<img src="images/keymap_keyboard.png" width="800">
