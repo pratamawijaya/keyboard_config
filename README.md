@@ -10,8 +10,13 @@
 
 
 sofle layer 0
-<img src="images/sofle_layer_0.png" width="800">
+<img src="sofle_layer0.png" width="800"/>
 
-sofle layer 2 
-<img src="images/sofle_layer_2.png" width="800">
+sofle layer 1 
+<img src="sofle_layer1.png" width="800"/>
 
+sofle layer 2 / raise
+<img src="sofle_layer2_raise.png" width="800"/>
+
+sofle layer 3 / lower
+<img src="sofle_layer3_lower.png" width="800"/>
